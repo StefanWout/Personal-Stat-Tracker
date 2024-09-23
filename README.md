@@ -24,6 +24,7 @@ An app designed to track the answers to a series of personalised questions over 
 - **Daily Consistency**: If you didn't fill out the form for yesterday, prompt to do so.
 - **Sleep**: Did you sleep well (yes/no/kinda)
 - **Physical Activity**: Did you excercise today (yes/no)
+- **Medication**: Did you taek medication (yes/no)
 
 ### Diet
 - **Overall Diet Quality**: Rate each meal of the day from "greasy", "normal", "healthy".
