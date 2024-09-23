@@ -20,25 +20,33 @@ An app designed to track the answers to a series of personalised questions over 
 
 # Daily Check-In App Metrics
 
+### General Metrics
+- **Daily Consistency**: If you didn't fill out the form for yesterday, prompt to do so.
+- **Sleep**: Did you sleep well (yes/no/kinda)
+- **Physical Activity**: Did you excercise today (yes/no)
+
 ### Diet
-- **Overall Diet Quality**: Rate from 1-10 how healthy your meals were.
+- **Overall Diet Quality**: Rate each meal of the day from "greasy", "normal", "healthy".
 - **Fruit/Vegetable Intake**: Yes/No (Did you eat at least 5 servings?).
+- **Fiber Intake**: Yes/No (Did you consume enough fiber today?).
 - **Hydration Level**: Rate from 1-10 how much water you drank.
-- **Cravings**: Multiple choice (e.g., sweet, salty, carbs, protein).
+- **Evening Munch**: Multiple choice (e.g., sweet, salty, carbs, protein) can choose more than one.
+- **Notes**: Anything worth mentioning.
 
 ### Mood
 - **Daily Mood Rating**: Rate from 1-10 on how you felt overall.
+- **Social Interaction**: Rate from 1-10 on how much social interation you had.
+- **Stress level**: Rate from 1-10 on how much stress you felt.
 - **Mood Fluctuations**: Yes/No (Did you experience any mood swings?).
-- **Triggers**: Multiple choice (e.g., stress, sleep, food).
 - **Energy Level**: Rate from 1-10 on how energized you felt.
+- **Triggers**: Multiple choice (e.g.friends, stress, food, sex, existential dread).
+- **Notes**: More detail on triggers.
 
 ### Bowel Movements
-- **Regularity**: Yes/No (Did you have a bowel movement today?).
-- **Comfort Level**: Rate from 1-10 on comfort after bowel movements.
-- **Stool Quality**: Multiple choice (e.g., normal, hard, loose).
-- **Fiber Intake**: Yes/No (Did you consume enough fiber today?).
+- **Regularity**: How many times did you go to the bathroom today.
+- **Gas Based Discomfort**: Rate from 1-10 on stomach gas pressure and comfort.
+- **Toot Frequency**: Multiple choice (e.g. barely, often, constant).
+- **Stool Quality**: Multiple choice (e.g. normal, hard, loose).
 
-### General Metrics
-- **Daily Consistency**: Track how many days you filled out the form.
-- **Trends Over Time**: Monitor mood, diet, and bowel movements weekly/monthly.
-- **Alerts for Concerns**: Automated flags for concerning trends (e.g., persistent low mood or irregularity).
+
+
