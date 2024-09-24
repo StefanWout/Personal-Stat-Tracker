@@ -24,7 +24,9 @@ An app designed to track the answers to a series of personalised questions over 
 - **Daily Consistency**: If you didn't fill out the form for yesterday, prompt to do so.
 - **Sleep**: Did you sleep well (yes/no/kinda)
 - **Physical Activity**: Did you excercise today (yes/no)
-- **Medication**: Did you taek medication (yes/no)
+- **ADHD Medication**: Did you take ADHD medication (yes/no)
+- **Other Medication**: Did you take other medication (drop down list that can be added to)
+- **Headaches**: Did you experience headaches today (none, light, medium, heavy)
 
 ### Diet
 - **Overall Diet Quality**: Rate each meal of the day from "greasy", "normal", "healthy".
