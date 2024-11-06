@@ -1,6 +1,8 @@
 # Personal-Stat-Tracker
 An app designed to track the answers to a series of personalised questions over time in order to derive insights on how certain behaviours affect mood, wellbeing and productivity.
 
+# Restart the project in REACT
+
 ## MVP Features
 * Concise form to fill out at the end of each day
 * Calendar that displays data snapshot for each day
